@@ -10,7 +10,7 @@ I am Meng Zhichao, an algorithm engineer.
 
 Starting from mathematics, I entered the data science field through self-study, progressing through power big data, financial risk modeling, NLP, and LLM engineering — gradually forming a working style centered on "model-driven thinking". I have published 200+ technical articles on [CSDN](https://blog.csdn.net/hbkybkzw) with nearly 300,000 cumulative views.
 
-In 2026, I participated in SemEval-2026 Task 7 (Multilingual Everyday Commonsense Evaluation). In Track 1 (Short Answer task) I ranked **1st** with a score of 78.7672, and in Track 2 (Multiple Choice task) I achieved an overall accuracy of 96.35% on approximately 47,000 samples.
+In 2026, I participated in [SemEval-2026 Task 7](https://www.codabench.org/competitions/10281/) (Multilingual Everyday Commonsense Evaluation) with a colleague. In Track 1 (Short Answer task), we ranked **1st** with a score of 78.7672, and in Track 2 (Multiple Choice task), we achieved an overall accuracy of 96.35% on approximately 47,000 samples, ranking **2nd**.
 
 ---
 
@@ -29,11 +29,13 @@ This repository contains notes from my daily learning and engineering practice, 
 
 ### Knowledge System
 
-The `handwritten_notes` folder contains notes primarily from after university graduation up to around 2020, when handwriting was the main format. The content is math-heavy, covering calculus, linear algebra, statistical learning methods, machine learning, and foundational theory. Probability theory and mathematical statistics were also included, though those notes are no longer available.
+1. The `handwritten_notes` folder contains notes primarily from after university graduation up to around 2020, when handwriting was the main format. The content is math-heavy, covering calculus, linear algebra, statistical learning methods, machine learning, and foundational theory. Probability theory and mathematical statistics were also included, though those notes are no longer available.![image-20260325165641142](https://qinchihongye-1313059842.cos.ap-guangzhou.myqcloud.com/image-20260325165641142.png)![image-20260325165700112](https://qinchihongye-1313059842.cos.ap-guangzhou.myqcloud.com/image-20260325165700112.png)
 
-The `markdown_notes` folder contains notes primarily in Markdown format (converted to PDF inside the folder), covering learning and accumulated knowledge from work experience after 2020.
+   
 
-All notes were written by me personally. The handwritten PDF scans have original notebooks as source, and the Markdown notes have original `.md` files.
+2. The `markdown_notes` folder contains notes primarily in Markdown format (converted to PDF inside the folder), covering learning and accumulated knowledge from work experience after 2020.
+
+* All notes were written by me personally. The handwritten PDF scans have original notebooks as source, and the Markdown notes have original `.md` files.
 
 #### 📝 handwritten_notes (Handwritten Notes, before 2020)
 
